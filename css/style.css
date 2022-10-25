@@ -1,0 +1,47 @@
+body {
+    background-color:cornflowerblue; 
+    background-image: url(../img/madera.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-position: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+    font-size: larger;
+}
+
+.beigeletra {
+    color: beige;
+}
+
+p {
+    color: baige; 
+
+}
+
+.alinear_flex {
+display: flex;
+justify-content: center;
+}
+
+.video {
+    display: grid;
+    align-items: center;
+
+}
+ 
+.bloque {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.b:hover {
+    color: blueviolet;   
+}
+
+.c:hover {
+    color: blueviolet;
+    margin-left: 20px;
+    
+}
